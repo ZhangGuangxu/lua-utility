@@ -12,7 +12,6 @@ local myTable = {
     happy = true,
     fight = function() return 'fight' end
 }
-
 print_r(myTable, 'myTable')
 
 
