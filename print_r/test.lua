@@ -16,7 +16,6 @@ local myTable = {
 print_r(myTable, 'myTable')
 
 
-
 local a ={
     firstName = "Fred",
     lastName = "Bob",
